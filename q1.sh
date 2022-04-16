@@ -1,4 +1,5 @@
-#!/bin/bash -x
+#!/bin/bash 
+echo "CALCULATOR"
 read -p "Enter two values: " num1 num2
 
 echo "Menu: 1)Addition. 2)Subtraction 3)Dvision 4)Multiplication"
